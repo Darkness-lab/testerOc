@@ -1,0 +1,7 @@
+D:\c++\csharp\OsTest\bin\Debug\OsTest.exe.config
+D:\c++\csharp\OsTest\bin\Debug\OsTest.exe
+D:\c++\csharp\OsTest\bin\Debug\OsTest.pdb
+D:\c++\csharp\OsTest\obj\Debug\OsTest.csprojAssemblyReference.cache
+D:\c++\csharp\OsTest\obj\Debug\OsTest.csproj.CoreCompileInputs.cache
+D:\c++\csharp\OsTest\obj\Debug\OsTest.exe
+D:\c++\csharp\OsTest\obj\Debug\OsTest.pdb
